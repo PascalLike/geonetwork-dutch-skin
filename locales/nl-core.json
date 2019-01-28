@@ -80,6 +80,7 @@
 "selection.indexing.error": "Error during selection indexing.",
 "showLegend": "Toon legenda",
 "hideLegend": "Verberg legenda",
+<<<<<<< HEAD
 "mdActions": "Available actions",
 "mdActions-view": "Viewable",
 "mdActions-download": "Downloadable",
@@ -87,4 +88,13 @@
 "addServiceLayersToMaponlinesrc": "Add service layer to map",
 "feedback":"Terugmelden",
 "dateType": "Datum type"
+=======
+"mdActions": "Beschikbare functies",
+"mdActions-view": "Bekijken",
+"mdActions-download": "Downloadbaar",
+"mdActions-process": "Bewerkbaar",
+"addServiceLayersToMaponlinesrc": "Voeg een service aan de kaart toe",
+"feedback":"Terugmelden",
+"ValidationStatus": "Status validatie"
+>>>>>>> Labels translated to Dutch and label added
 }
