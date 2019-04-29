@@ -96,9 +96,13 @@
 "addServiceLayersToMaponlinesrc": "Voeg een service aan de kaart toe",
 "feedback":"Terugmelden",
 <<<<<<< HEAD
+<<<<<<< HEAD
 "ValidationStatus": "Status validatie"
 >>>>>>> Labels translated to Dutch and label added
 =======
+=======
+"dateType": "Datum type",
+>>>>>>> Align latest developments (#48)
 "ValidationStatus": "Status validatie",
 "continual": "continu",
 "daily": "dagelijks",
