@@ -30,7 +30,7 @@
 // fix the toolbars and show them all the time
 [ng-app="gn_editor"] {
   body {
-    padding-top: 65px;
+    padding-top: 56px;
     padding-left: 15px;
     padding-right: 15px;
     padding-bottom: 70px;
@@ -92,6 +92,10 @@
     .gn-editor-container, .gn-batch-editor, #gn-directory-container, #gn-new-metadata-container, #gn-import-container {
       padding-top: 20px;
     }
+  }
+  .gn-batch-editor, #gn-directory-container, #gn-new-metadata-container, #gn-import-container {
+    border-top: 5px solid @gn-menubar-background-active;
+    margin-left: -15px;
   }
   // scrollspy
   .gn-scroll-spy {
