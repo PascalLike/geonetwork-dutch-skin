@@ -80,29 +80,13 @@
 "selection.indexing.error": "Error during selection indexing.",
 "showLegend": "Toon legenda",
 "hideLegend": "Verberg legenda",
-<<<<<<< HEAD
-"mdActions": "Available actions",
-"mdActions-view": "Viewable",
-"mdActions-download": "Downloadable",
-"mdActions-process": "Processable",
-"addServiceLayersToMaponlinesrc": "Add service layer to map",
-"feedback":"Terugmelden",
-"dateType": "Datum type"
-=======
 "mdActions": "Beschikbare functies",
 "mdActions-view": "Bekijken",
 "mdActions-download": "Downloadbaar",
 "mdActions-process": "Bewerkbaar",
 "addServiceLayersToMaponlinesrc": "Voeg een service aan de kaart toe",
 "feedback":"Terugmelden",
-<<<<<<< HEAD
-<<<<<<< HEAD
-"ValidationStatus": "Status validatie"
->>>>>>> Labels translated to Dutch and label added
-=======
-=======
 "dateType": "Datum type",
->>>>>>> Align latest developments (#48)
 "ValidationStatus": "Status validatie",
 "continual": "continu",
 "daily": "dagelijks",
@@ -126,5 +110,4 @@
 "irregular": "onregelmatig",
 "notPlanned": "niet gepland",
 "unknown": "onbekend"
->>>>>>> Update frequency codelist translations added
 }
